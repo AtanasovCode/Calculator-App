@@ -3,15 +3,11 @@
 ## Table Of Contents 
 
 -[Overview](#overview)
-    - [The Challange](#the-challange)
-    
-    - [Screenshot](#screenshot)
-    
-    - [Built With](#built-with)
-    
-    - [Sources](#sources)
-    
-    - [IMPORTANT](#important)
+    -[The Challange](#the-challange)
+    -[Screenshot](#screenshot)
+    -[Built With](#built-with)
+    -[Sources](#sources)
+    -[IMPORTANT](#important)
 
 ## Overview
 
